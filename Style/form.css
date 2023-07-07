@@ -1,0 +1,13 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+fieldset {
+    width: 300px;
+}
+.last{
+    background-color: aqua;
+    margin-right: 30px;
+    
+}
